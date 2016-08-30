@@ -1,6 +1,9 @@
 * The English Knowledge You Must Know
-** be free
-*** be free to do/be : 自由地做/成为...
+** free
+*** be free to do/be
+#+BEGIN_COMMENT
+自由地做/成为...
+#+END_COMMENT
 - On Facebook, you can *be free to be* who you want to be, as long as you don't mind being bombarded by adverts for the world's biggest brands.
 - In Istanbul, women should *be free to* pursue happines and live as they choose, instead of being confined by traditional marriage values, she said.
 *** free with : 对...很随意、随便，强调的是“对某事不认真”
