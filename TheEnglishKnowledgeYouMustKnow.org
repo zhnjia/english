@@ -59,3 +59,26 @@ involve既可以作及物动词，也可以做不及物动词，差别很大
 - By then, World War II had ended, but the United States *was involved in* the Korean War, so Starr decieded to become a military doctor.
 - Many nations around the world *are involved in* border disputs which have resulted in strained military relations.
 - Din't I say somethins about you not *getting involved in* that?
+** cease
+*** cease to do
+强调“长时间甚至永远停止做某事”
+- Your voice service provider will soon *cease to* provide service.
+- The great tragedy of life is not that men perish, but that they *cease to* love.
+*** cease doning
+强调“短时停止做某事，但以后还会接着做”
+- Never *cease trying* to be the best you can be -- that's under your control.
+- Moscow would also *cease issuing* visas to British officials -- although he insisted other visa applications would not be affected.
+** take leave
+*** take leave
+告别、离开，或休假
+- The guest *took leave* after thanking the host.
+- The goverment has tried to address the problem by promoting telecommuting and encouraging workers to *take leave* when they start families or need to care for elderly parents.
+*** take leave to
+冒昧做。。。
+- I *take leave to* be frank.
+- I *take leave to* differ from you.
+*** 表示“冒昧做”的固定搭配
+- We *take liberty of* writing to you with a view to establish bussiness relations with you.
+- May I *make so bold to* ask what institution sponsored your experiment?
+- I *ventured to* say something of the kind to her, when she laughed at my clumsy compliment and said I had better take to writing fashion articles instead of political leaders.
+- I know my place and I wouldn't *presume to* tell an expert how to do his job.
